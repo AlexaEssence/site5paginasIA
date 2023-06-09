@@ -1,0 +1,11 @@
+.parent {
+    display: grid;
+    grid-template-columns: repeat(2, 500px);
+    grid-template-rows: 1fr;
+    grid-column-gap: 100px;
+    grid-row-gap: 0px;
+    }
+
+  .container2{
+margin-top: 3rem;
+}
